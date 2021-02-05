@@ -1,0 +1,114 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+header{
+    height: 480px;
+
+    justify-content: center;
+
+    background-image: url(photos/GettyImages-1245226116-800x480.jpg);
+    
+
+}
+
+#photosOfNew{
+    background: #1dd1a1;
+    text-align: center;
+    height: 300pt;
+    position: relative;
+    
+}
+
+#News001{
+    display:inline-block;
+    margin-top: 60pt;
+    
+}
+
+#imgDaNews:hover{
+    height: 200pt;
+    transition-delay: 0.2s;
+    margin-top: -150pt;
+    max-width: 100%;
+}
+
+#navBar{
+    text-align: right;
+    background: #2c3e50;
+    width: 100%;
+    
+}
+
+li{
+    display: inline-block;
+    padding: 10pt;
+}
+a{
+    color: white;
+    font-family: Noto Sans, sans-serif;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(138, 135, 135);
+    text-transform: uppercase;
+}
+#Top{
+    padding: 0%;
+    margin: 0%;
+    padding-left: 5%;
+    padding-right: 25%;
+    padding-bottom: 2%;
+}
+
+#workWithUs{
+    padding: 0%;
+    background-color: #576574;
+    text-align: center;
+    margin-top: -15pt;
+    height: 380pt;
+    position: relative;
+    background-image: url(https://www.worldbank.org/content/dam/wbr-redesign/images/hero-5.jpg);
+    background-position-x: center;
+
+}
+#workWhitUsDiv{
+    padding-top: 0%;
+    height: 190pt;
+    width: 160pt;
+}
+
+h1{
+    color: rgba(#636e72);
+    font-family: Arial;
+    font-size: 25pt;
+}
+p{
+    font-size: 14pt;
+}
+h2{
+    font-family: Noto Sans, sans-serif;
+    font-family: Andale Mono, monospace;
+}
+h3{
+    color: rgb(48, 48, 128);
+    font-family: Arial;
+    font-size: 18pt;
+}
+
+#historias{
+text-align: center;
+
+}
+#historias001{
+
+    display: inline-block;
+    padding: 10pt;
+}
+
+
+@media screen and (max-width: 1024px) {
+    /*estilos*/
+ }
